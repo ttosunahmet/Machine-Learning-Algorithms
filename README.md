@@ -3,29 +3,29 @@
 A comprehensive collection of Machine Learning algorithms implemented in Python from scratch. Covers supervised, unsupervised learning and advanced topics like NLP and Recommendation Systems.
 
 ## 📂 Project Structure
-├── Linear-Regression.py
-├── Multiple_Regression.py
-├── Polynomial_Regression.py
-├── Logistic_Regression.py
-├── Decision_Tree_Classification.py
-├── DecisionTree_Regression.py
-├── Random_Forest.py
-├── RandomFores_Regression.py
-├── KNN.py
-├── SVM.py
-├── Navie_Bayes.py
-├── K-means.py
-├── Confusion_Matrix.py
-├── mLG.py
-├── hc+tutorial.py
-├── Model_Selection/
-│   └── K_FOLD.py
-├── NLP/
-│   └── main.py
-├── PCA/
-│   └── PCA.py
-└── Recommendation_Systems/
-└── main1.py
+- ├── Linear-Regression.py
+- ├── Multiple_Regression.py
+- ├── Polynomial_Regression.py
+- ├── Logistic_Regression.py
+- ├── Decision_Tree_Classification.py
+- ├── DecisionTree_Regression.py
+- ├── Random_Forest.py
+- ├── RandomFores_Regression.py
+- ├── KNN.py
+- ├── SVM.py
+- ├── Navie_Bayes.py
+- ├── K-means.py
+- ├── Confusion_Matrix.py
+- ├── mLG.py
+- ├── hc+tutorial.py
+- ├── Model_Selection/
+- │   └── K_FOLD.py
+- ├── NLP/
+- │   └── main.py
+- ├── PCA/
+- │   └── PCA.py
+- └── Recommendation_Systems/
+- └── main1.py
 
 ## 📈 Algorithms Covered
 
